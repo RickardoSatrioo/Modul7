@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Rickardo Satrio
 
-NIM: 
+NIM: 607062300051
 
 ## Instruksi
 
